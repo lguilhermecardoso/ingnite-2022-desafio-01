@@ -1,0 +1,21 @@
+.logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.rocket {
+  margin-right: 1rem;
+}
+
+.logoto {
+  font-size: 2.5em;
+  font-weight: 700;
+  color: var(--blue);
+}
+
+.logodo {
+  font-size: 2.5em;
+  font-weight: 700;
+  color: var(--purple-dark);
+}
